@@ -1,0 +1,21 @@
+{
+  "name": "zcrmsdk",
+  "version": "0.0.21",
+  "description": "Node SDK for Zoho CRM",
+  "main": "lib/js/ZCRMRestClient",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "properties-reader": "0.0.16",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "Node",
+    "Zoho",
+    "CRM",
+    "OAuth2",
+    "API"
+  ],
+  "author": "Zoho CRM API Team (support@zohocrm.com)"
+}
